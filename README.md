@@ -2,3 +2,4 @@
 
 - <a href="https://ltoddy.github.io/Python-useful/update/" target="_blank">update.py</a>  更新电脑全部的Python第三方库.
 
+- <a href="https://ltoddy.github.io/Python-useful/email/" target="_blank">email.py</a>  Python发送电子邮件.

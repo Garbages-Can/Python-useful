@@ -7,3 +7,5 @@
 - <a href="https://ltoddy.github.io/Python-useful/markdowntohtml/" target="_blank">markdowntohtml.py</a> markdown文本转换为html文本.
 
 - <a href="https://ltoddy.github.io/Python-useful/quicksort/" target="_blank">quicksort.py</a> 快速排序实现+原理.
+
+- <a href="https://ltoddy.github.io/Python-useful/sierpinskitriangle/" target="_blank">sierpinskitriangle.py</a> 谢尔宾斯基三角形GUI.

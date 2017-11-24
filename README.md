@@ -1,4 +1,4 @@
-所有Python代码,严格按照PEP8标准编写.
+所有Python代码,严格按照[PEP8标准](https://ltoddy.github.io/Python-useful/Python编码规范-PEP8/)编写.
 
 ## 一些有用的 Python 脚本.
 
@@ -13,5 +13,3 @@
 - <a href="https://ltoddy.github.io/Python-useful/sierpinskitriangle/" target="_blank">sierpinskitriangle.py</a> 谢尔宾斯基三角形GUI.
 
 - <a href="https://ltoddy.github.io/Python-useful/connectMySQL/" target="_blank">connectMySQL.py</a> Python链接MySQL数据库.
-
-- <a href="https://ltoddy.github.io/Python-useful/Python编码规范-PEP8/" target="_blank">PEP8</a> Python编码规范-PEP8.

@@ -13,3 +13,5 @@
 - <a href="https://ltoddy.github.io/Python-useful/sierpinskitriangle/" target="_blank">sierpinskitriangle.py</a> 谢尔宾斯基三角形GUI.
 
 - <a href="https://ltoddy.github.io/Python-useful/connectMySQL/" target="_blank">connectMySQL.py</a> Python链接MySQL数据库.
+
+- spider 文件夹: 爬虫

@@ -14,4 +14,3 @@
 
 - <a href="https://ltoddy.github.io/Python-useful/connectMySQL/" target="_blank">connectMySQL.py</a> Python链接MySQL数据库.
 
-- spider 文件夹: 爬虫

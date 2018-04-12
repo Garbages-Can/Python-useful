@@ -42,7 +42,7 @@ from sanic.response import HTTPResponse
 from jinja2 import Environment, FileSystemLoader
 
 app = Sanic(__name__)
-base_dir = os.path.abspath(os.path.dirname(__name__))
+base_dir = os.path.abspath(os.path.dirname(__file__))
 templates_dir = os.path.join(base_dir, 'templates')
 jinja_env = Environment(loader=FileSystemLoader(templates_dir), autoescape=True)
 

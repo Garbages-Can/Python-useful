@@ -14,3 +14,4 @@
 
 - <a href="https://ltoddy.github.io/Python-useful/connectMySQL/" target="_blank">connectMySQL.py</a> Python链接MySQL数据库.
 
+- <a href="https://ltoddy.github.io/Python-useful/基于docker+gunicorn部署sanic项目/" target="_blank">sanic-app</a> 基于docker+gunicorn部署sanic项目.

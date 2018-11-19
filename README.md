@@ -7,7 +7,7 @@
 ### Content:
 
   - [前言](./preface.md)
-  - data model class (dunder methods, protocol)
+  - [data model class (dunder methods, protocol)](./data-model.md)
   - metaclass (Base/Derive class)
   - decorators
   - generators
@@ -34,7 +34,7 @@
 这本书Python最好的第一本书了,如果你坚持看完,解决完课后习题,除了你学会了Python,
 更重要的是,你的编程能力会得到很多提升.
 
-[Python语言程序设计 pdf 下载](http://pfyet25tf.bkt.clouddn.com/Python%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.pdf)
+[Python语言程序设计 pdf 下载](http://piffy1zbf.bkt.clouddn.com/Python%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.pdf)
 
 -------------------------------------------------------
 
@@ -46,7 +46,7 @@
 或者看完之后没几天就忘记了, 所以这第一遍,知道这本书都讲了哪些东西,然后等第二遍读的时候,
 看到某某东西,不至于不知道是什么东西.第二遍要认认真真的读,能都记住最好.
 
-[流畅的Python pdf 下载](http://pfyet25tf.bkt.clouddn.com/%E6%B5%81%E7%95%85%E7%9A%84Python.pdf)
+[流畅的Python pdf 下载](http://piffy1zbf.bkt.clouddn.com/%E6%B5%81%E7%95%85%E7%9A%84Python.pdf)
 
 ### License
 
